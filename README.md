@@ -22,7 +22,7 @@ To play the game:
 1. **Download or clone** the repository:
    ```bash
    git clone https://github.com/your-username/guess-my-number.git
-2. **Open the index.html file in your browser:
+2. Open the index.html file in your browser:
 
 Double-click index.html
 
@@ -30,9 +30,5 @@ OR right-click and choose “Open with” → your browser
 
 ✅ No need for a web server or deployment — it runs locally in your browser.
 
-📁 guess-my-number/
-├── index.html        # Game interface
-├── style.css         # Styling and layout
-└── script.js         # Game logic in JavaScript
 
 
